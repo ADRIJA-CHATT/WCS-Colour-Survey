@@ -1,0 +1,2 @@
+null_hypothesis,alternative,test,statistic,df,p_value,beta_log_K,se_beta_log_K,ci95_lower,ci95_upper,alpha_0_05_reject
+Language colour vocabulary is unrelated to speaker-level information efficiency,Language colour vocabulary is related to speaker-level information efficiency,Language-clustered Wald chi-square test on log(K_l) coefficient,115.13369240571886,1,7.356677351759954e-27,0.6473406987110757,0.060329773630145245,0.5290965152005367,0.7655848822216147,True
