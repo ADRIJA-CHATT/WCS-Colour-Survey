@@ -1,0 +1,2 @@
+null_hypothesis,alternative,test,statistic,df,p_value,alpha_0_05_reject
+All language-vocabulary-by-distance interaction coefficients are zero,At least one interaction coefficient is nonzero,Language-clustered joint Wald chi-square test,662.3798850594358,9,8.419013246122584e-137,True
